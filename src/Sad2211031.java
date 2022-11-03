@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * 수 정렬하기 2 (내림차순): https://www.acmicpc.net/problem/2751
  *
- * 설명 : Binary Sort 재귀.
+ * 설명 : Quick Sort 재귀.
  */
 
 public class Sad2211031 {

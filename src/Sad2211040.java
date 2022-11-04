@@ -4,7 +4,13 @@ import java.io.InputStreamReader;
 
 /**
  * 수 정렬하기 2 (내림차순): https://www.acmicpc.net/problem/2751
- * 설명 : Quick Sort 재귀. ArrayList -> int[]
+ * 설명 : Quick Sort 재귀.
+ * ArrayList -> int[]
+ * 입력값 버퍼로 받음.
+ *
+ * 시간 초과.
+ *
+ * 다음에 시도할 방법 : print 구문 변경.
  */
 
 

@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  *
  * 시간 초과.
  *
- * 다음에 시도할 방법 : print 구문 변경.
+ * 다음에 시도할 방법 : 더 빠른 속도의 출력 방식 시도.
  */
 
 
